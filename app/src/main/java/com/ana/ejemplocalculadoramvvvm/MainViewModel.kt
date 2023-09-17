@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModel
 
 class MainViewModel : ViewModel() {
     //Opcion 1
+    //Guardando en feature/practica2
     val suma : MutableLiveData<Double> by lazy {
         MutableLiveData<Double>()
     }
