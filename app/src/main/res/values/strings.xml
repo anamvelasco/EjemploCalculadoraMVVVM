@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EjemploCalculadoraMVVVM</string>
+    <string name="app_name">CalculaApp</string>
     <string name="add">+</string>
     <string name="first_number">Digite el primer número</string>
     <string name="second_number">Digite el segundo número</string>
@@ -7,4 +7,7 @@
     <string name="substract">-</string>
     <string name="multiply">*</string>
     <string name="divide">/</string>
+    <string name="texto_app">Para utilizar la calculadora correctamente, se deben ingresar los dos números y luego oprimir el botón de la operación que se quiere realizar. Posterior a esto, podrá observar el resultado.</string>
+    <string name="instrucciones_text">INSTRUCCIONES CALCULADORA:</string>
+    <string name="resultado_text">El resultado de la operación es:</string>
 </resources>

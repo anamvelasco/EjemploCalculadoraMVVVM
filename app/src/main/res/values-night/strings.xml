@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_app">Para utilizar la calculadora correctamente, se deben ingresar los dos números y luego oprimir el botón de la operación que se quiere realizar.</string>
+    <string name="instrucciones_text">INSTRUCCIONES CALCULADORA:</string>
+</resources>
